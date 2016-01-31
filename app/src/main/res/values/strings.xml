@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EbayBooks</string>
+    <string name="network_titile">Network</string>
+    <string name="network_message">Check the internet connection, and try again.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
